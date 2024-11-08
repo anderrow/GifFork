@@ -1,3 +1,5 @@
 Aquí viene tu diario
 Este es mi primer cambio en la nueva funcionalidad
 Este es mi segundo cambio en la nueva funcionalidad
+primera prueba
+segunda prueba
